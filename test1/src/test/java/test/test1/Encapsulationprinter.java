@@ -4,8 +4,8 @@ package test.test1;
 ->The variables tonnerlevel, numberofpagesprinted, duplexprinter are declared as private which means they cannot be accessed outside this class. They can be only accessed if there is
 any public method present. So in this way no other class can override the fields present in this class this is one of the benefit of using encapsulation.
 
-->We can use the methods declared in the below class outside this class and obtain the same results as this class. Which means we  donot know how the variables are declared and code
-is written we just use the methods of this class by creating the objects and obtain results which is one of the benefit of using encapsulation.
+->We can use the methods declared in the below class outside this class and obtain the same results as this class. Which means we  donot know how the variables are declared and how code
+is written we just use the methods of this class by creating the object and obtain results which is one of the benefit of using encapsulation.
 */
 public class Encapsulationprinter {
 	
