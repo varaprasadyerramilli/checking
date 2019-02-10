@@ -1,5 +1,7 @@
 package test.test1;
 
+import java.util.Collection;
+
 /** Keep in mind that in java you always have references to an object in memory, there is no way to access an object directly everything is done using a reference
  */
 

@@ -1,6 +1,12 @@
 package test.test1;
 
+import java.io.FileInputStream;
+import java.util.Properties;
+
 public class Car extends Baseclassvehicle {
+	Properties pro= new Properties();
+	
+	
 	
 public String getCarname() {
 		return this.carname;
