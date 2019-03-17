@@ -8,6 +8,7 @@ public class Song {
 
 	private String Title;
 	private String Duration;
+	
 	public String getTitle() {
 		return Title;
 	}
