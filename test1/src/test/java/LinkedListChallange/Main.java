@@ -135,12 +135,12 @@ private static void printMenu(){
 
 
 private static void printList(LinkedList<Song> playList){
-	Iterator<Song> iterator=playList.iterator();
-	System.out.println("===============================");
-	while(iterator.hasNext()){
-		System.out.println(iterator.next());
-	}
-	System.out.println("===============================");
+//	//Iterator<Song> iterator=playList.iterator();
+//	System.out.println("===============================");
+//	while(iterator.hasNext()){
+//		System.out.println(iterator.next());
+//	}
+//	System.out.println("===============================");
 	
 }
 }
